@@ -7,8 +7,7 @@ using namespace std;
 
 int main()
 {
-	//Insert the pointless comment here instead
-	cout<<"Hello World"<<endl;
+	//now this program does nothing
 	
 	cout<<"I'll write a new message this time"<<endl;
 	return 0;
