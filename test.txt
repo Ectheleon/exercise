@@ -1,14 +1,9 @@
-Hello World
-
-#include <iostream>
-#include <iomanip>
-
-using namespace std;
+#include <ostream>
 
 int main()
 {
 	//now this program does nothing
 	
-	cout<<"I'll write a new message this time"<<endl;
+	std::cout<<"I'll write a new message this time"<<std::endl;
 	return 0;
 }
